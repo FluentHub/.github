@@ -22,7 +22,7 @@
 
 ## Get Involved
 
-Currently, FluentHub is in dev. so please contribute and become FluentHub to amazing app together, and there are opportunities to become a member!!
+FluentHub is currently under development, join us in making FluentHub better and contribute to a great app! There are also opportunities to become a member.
 
 ---
 
