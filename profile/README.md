@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="112" align="center" src="https://github.com/fluenthub-community/FluentHub/blob/main/src/FluentHub/Assets/AppTiles/StoreLogo.scale-400.png">
+  <img width="112" align="center" src="https://user-images.githubusercontent.com/62196528/168255187-29e602e7-eafe-4814-a221-b9fb103fdbd0.png">
 </p>
 <h1 align="center">
   FluentHub Dev
