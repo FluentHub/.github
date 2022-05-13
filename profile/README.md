@@ -2,7 +2,7 @@
   <img width="112" align="center" src="https://user-images.githubusercontent.com/62196528/168255187-29e602e7-eafe-4814-a221-b9fb103fdbd0.png">
 </p>
 <h1 align="center">
-  FluentHub Dev
+  FluentHub
 </h1>
 <p align="center">
   FluentHub is a fluent yet powerful GitHub Oauth client app made with Fluent Design and WinUI 2.7
