@@ -1,5 +1,5 @@
 <a href="https://hub.codrex.dev"><p align="center">
-  <img width="112" align="center" src="https://user-images.githubusercontent.com/62196528/168255187-29e602e7-eafe-4814-a221-b9fb103fdbd0.png">
+  <img width="112" align="center" src="https://github.com/FluentHub/FluentHub/blob/main/assets/fluenthub.png">
 </p>
 </a>
 <h1 align="center">
